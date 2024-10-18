@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: diabetes_analysis_lib
+Version: 0.1
+Summary: A library for preprocessing, training, and evaluating models for diabetes analysis
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
